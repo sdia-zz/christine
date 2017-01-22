@@ -1,0 +1,25 @@
+postgres:
+  container_name: christine_pg
+  image: postgres:latest
+  volumes_from:
+    - data
+  expose:
+    - 5432
+  ports:
+    - 5432:5432
+web:
+  container_name: christine_app
+  build: .
+  command: python /app/app.py
+  ports:
+    - 5000:5000
+  links:
+    - postgres
+  volumes:
+    - ./app:/app
+data:
+  container_name: christine_data
+  image: postgres:latest
+  command: echo 'Data Container for PostgreSQL'
+  volumes:
+    - /var/lib/postgresql/data

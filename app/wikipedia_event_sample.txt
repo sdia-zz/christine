@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Portal:Current events/2016 February 27 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Current_events/2016_February_27","wgTitle":"Current events/2016 February 27","wgCurRevisionId":707937683,"wgRevisionId":707937683,"wgArticleId":49549897,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["2016 by day"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Current_events/2016_February_27","wgRelevantArticleId":49549897,"wgRequestId":"WIEREQpAAD0AAGRIeqYAAACE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q22997074","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.legacy.wikibits","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.0-wmf.7"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Current_events/2016_February_27"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Current_events_2016_February_27 rootpage-Portal_Current_events skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Current events/2016 February 27</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Portal:Current_events" title="Portal:Current events">Portal:Current events</a></span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div id="2016_February_27"></div>
+<table class="vevent" style="width:100%; margin:7px 0px; padding:2px; background-color:white; border:1px #cef2e0 solid;">
+<tr>
+<td>
+<table cellspacing="0" width="100%" style="background-color:#cef2e0" class="plainlinks">
+<tr>
+<td style="text-align:left;font-size:11pt; font-weight:bold; padding:5px; margin-left:0px; width:100%"><span class="summary"><span style="display:none;">Current events of</span> February&#160;27,&#160;2016<span style="display:none">&#160;(<span class="bday dtstart published updated">2016-02-27</span>)</span> (Saturday)</span></td>
+<td style="text-align:right;font-weight:bold; padding:5px; margin-left:0px"><small class="editlink noprint"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=edit&amp;editintro=Portal:Current_events/Edit_instructions">edit</a></small></td>
+<td style="text-align:right;font-weight:bold; padding:5px; margin-left:0px"><small class="editlink noprint"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=history">history</a></small></td>
+<td style="text-align:right;font-weight:bold; padding:5px; margin-left:0px"><small class="editlink noprint"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=watch">watch</a></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="description">
+<dl>
+<dt>Armed conflicts and attacks</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a>
+<ul>
+<li>A truce is in effect, as of midnight. <a href="/wiki/Russian_Air_Force" title="Russian Air Force">Russian Air Force</a> attacks on opposition positions were reported to have been intensified before the truce took effect. <a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-middle-east-35674908">(BBC)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/War_in_Afghanistan_(2015%E2%80%93present)" title="War in Afghanistan (2015–present)">War in Afghanistan (2015–present)</a>
+<ul>
+<li>A <a href="/wiki/Suicide_bomber" class="mw-redirect" title="Suicide bomber">suicide bomber</a> kills at least 26 and injures nearly 50 in <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>'s eastern <a href="/wiki/Kunar_Province" title="Kunar Province">Kunar Province</a> near the border with <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>. <a rel="nofollow" class="external text" href="http://www.news.com.au/world/breaking-news/suicide-bomber-kills-11-at-afghan-compound/news-story/53af4814d4fe82818f0e0601e77379ba?from=public_rss">(AAP via News Limited)</a> <a rel="nofollow" class="external text" href="http://www.nytimes.com/2016/02/28/world/asia/suicide-bombing-in-eastern-afghanistan-kills-at-least-12.html?_r=0">(NY Times)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Yemeni_Civil_War_(2015%E2%80%93present)" title="Yemeni Civil War (2015–present)">Yemeni Civil War (2015–present)</a>
+<ul>
+<li><a href="/wiki/Saudi_Arabian-led_intervention_in_Yemen" title="Saudi Arabian-led intervention in Yemen">Saudi Arabian-led intervention in Yemen</a>
+<ul>
+<li>At least 30 people are killed in an airstrike on a market near the <a href="/wiki/Yemen" title="Yemen">Yemeni</a> capital <a href="/wiki/Sana%27a" title="Sana'a">Sana'a</a>. <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-middle-east-35678326">(BBC)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<dl>
+<dt>Law and crime</dt>
+</dl>
+<ul>
+<li>Three people are stabbed, including one person critically wounded, and several people are arrested after a <a href="/wiki/Ku_Klux_Klan" title="Ku Klux Klan">Ku Klux Klan</a> (KKK) rally in <a href="/wiki/Anaheim,_California" title="Anaheim, California">Anaheim, California</a> turns violent. <a rel="nofollow" class="external text" href="http://www.latimes.com/local/lanow/la-me-ln-klan-rally-in-anaheim-erupts-in-violence-one-man-stabbed-20160227-story.html">(Los Angeles Times)</a></li>
+</ul>
+<dl>
+<dt>Politics and elections</dt>
+</dl>
+<ul>
+<li><a href="/wiki/United_States_presidential_election,_2016" title="United States presidential election, 2016">United States presidential election, 2016</a>
+<ul>
+<li>Voters in <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a> go to the polls for the <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic Party</a> primary. <a href="/wiki/Hillary_Clinton" title="Hillary Clinton">Hillary Clinton</a> won. <a rel="nofollow" class="external text" href="http://abcnews.go.com/Politics/live-south-carolina-democratic-primary-exit-poll-analysis/story?id=37241467">(ABC)</a> <a rel="nofollow" class="external text" href="http://www.al.com/news/index.ssf/2016/02/south_carolina_democratic_prim.html">(AL.com)</a> <a rel="nofollow" class="external text" href="http://www.theguardian.com/us-news/live/2016/feb/27/south-carolina-democratic-primary-hillary-clinton-bernie-sanders-campaign-live">(<i>The Guardian</i>)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Irish_general_election,_2016" title="Irish general election, 2016">Irish general election, 2016</a>
+<ul>
+<li>Counting begins of the votes cast yesterday with exit polls indicating that the existing coalition will not gain enough votes to govern without reaching a deal with other parties. <a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-europe-35674465">(BBC)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Elections_in_Iran" title="Elections in Iran">Elections in Iran</a>
+<ul>
+<li>Counting of votes begins in <a href="/wiki/Iran" title="Iran">Iran</a> after polling hours in yesterday's <a href="/wiki/Iranian_legislative_election,_2016" title="Iranian legislative election, 2016">election</a> were extended by six hours due to a heavy turnout. Reports indicate that <a href="/wiki/Iranian_Reformists" title="Iranian Reformists">reformist</a> candidates are doing well in the early count. <a rel="nofollow" class="external text" href="http://www.swissinfo.ch/eng/iran-starts-election-count-to-set-post-sanctions-power-balance/41984890">(Reuters via Swiss, info)</a>, <a rel="nofollow" class="external text" href="http://bigstory.ap.org/article/64a1faf3db0247fb9e03d5cee27eae12/iran-reformists-performing-well-early-election-results">(AP)</a></li>
+<li>Preliminary results shows that <a href="/wiki/Pervasive_Coalition_of_Reformists" title="Pervasive Coalition of Reformists">Pervasive Coalition of Reformists</a> has won a majority in <a href="/wiki/Tehran" title="Tehran">Tehran</a> district and some other big cities, as <a href="/wiki/Principlists_Coalition" class="mw-redirect" title="Principlists Coalition">Principlists Coalition</a> won seats in smaller cities. <a rel="nofollow" class="external text" href="http://www.reuters.com/article/us-iran-election-vote-idUSKCN0VZ0E7">(Reuters)</a></li>
+<li>Early <a href="/wiki/Assembly_of_Experts" title="Assembly of Experts">Assembly of Experts</a> <a href="/wiki/Iranian_Assembly_of_Experts_election,_2016" title="Iranian Assembly of Experts election, 2016">results</a> show that <a href="/wiki/Iranian_Principlists" title="Iranian Principlists">Principlists</a> won the majority, as Reformists won 14 out of 16 seats in <a href="/wiki/Tehran" title="Tehran">Tehran</a>, although some of them also had the support of conservatives. <a rel="nofollow" class="external text" href="http://news.yahoo.com/irans-rouhani-top-ally-rafsanjani-lead-assembly-experts-135559253.html">(Reuters via Yahoo)</a></li>
+</ul>
+</li>
+<li>Thousands, including some from <a href="/wiki/Australia" title="Australia">Australia</a>, protest in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a>, against the renewal of the <a href="/wiki/UK_Trident_programme" class="mw-redirect" title="UK Trident programme">United Kingdom's Trident nuclear deterrent system</a>, the largest anti-nuclear rally since 1983. <a href="/wiki/Leader_of_the_Labour_Party_(UK)" title="Leader of the Labour Party (UK)">Leader of the Labour Party</a> <a href="/wiki/Jeremy_Corbyn" title="Jeremy Corbyn">Jeremy Corbyn</a>, <a href="/wiki/Scottish_National_Party" title="Scottish National Party">Scottish National Party</a> leader and <a href="/wiki/First_Minister_of_Scotland" title="First Minister of Scotland">First Minister of Scotland</a> <a href="/wiki/Nicola_Sturgeon" title="Nicola Sturgeon">Nicola Sturgeon</a>, the <a href="/wiki/Wales" title="Wales">Welsh</a> <a href="/wiki/Plaid_Cymru" title="Plaid Cymru">Plaid Cymru Party</a>, and the <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green Party</a> participated in the march. A <a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">parliamentary</a> vote on renewing Trident is expected this year. <a rel="nofollow" class="external text" href="http://www.ibtimes.com/rally-london-against-trident-nuclear-deterrent-system-draws-thousands-2326327">(<i>International Business Times</i>)</a> <a rel="nofollow" class="external text" href="http://www.theguardian.com/world/2016/feb/27/cnd-rally-anti-nuclear-demonstration-trident-london">(<i>The Guardian</i>)</a></li>
+<li>A large rally, with estimated counts ranging from 7,500 to 100,000, honors former <a href="/wiki/Deputy_Chairman_of_the_Government_of_the_Russian_Federation" class="mw-redirect" title="Deputy Chairman of the Government of the Russian Federation">deputy prime minister</a> and <a href="/wiki/Russian_opposition" class="mw-redirect" title="Russian opposition">opposition</a> leader <a href="/wiki/Boris_Nemtsov" title="Boris Nemtsov">Boris Nemtsov</a> on the first anniversary of his <a href="/wiki/Assassination_of_Boris_Nemtsov" title="Assassination of Boris Nemtsov">assassination</a> near the <a href="/wiki/Kremlin" title="Kremlin">Kremlin</a>. <a rel="nofollow" class="external text" href="http://www.reuters.com/article/us-russia-nemtsov-idUSKCN0W00M4">(Reuters)</a></li>
+</ul>
+</td>
+</tr>
+</table>
+
+
+<!--
+NewPP limit report
+Parsed by mw1255
+Cached time: 20170114142759
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.016 seconds
+Real time usage: 0.025 seconds
+Preprocessor visited node count: 402/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2131/2097152 bytes
+Template argument size: 168/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+-->
+
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   10.078      1 - Template:Current_events_header
+100.00%   10.078      1 - -total
+ 49.74%    5.013      6 - Template:MONTHNAME
+ 31.71%    3.196      6 - Template:MONTHNUMBER
+ 27.49%    2.770      1 - Template:Start_date
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:49549897-0!*!0!*!*!*!* and timestamp 20170114142759 and revision id 707937683
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;oldid=707937683">https://en.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;oldid=707937683</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2016_by_day" title="Category:2016 by day">2016 by day</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Portal%3ACurrent+events%2F2016+February+27" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3ACurrent+events%2F2016+February+27" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Current_events/2016_February_27" >Portal</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Portal_talk:Current_events/2016_February_27&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Current_events/2016_February_27" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Current_events/2016_February_27" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Current_events/2016_February_27" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;oldid=707937683" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q22997074" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3ACurrent+events%2F2016+February+27">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%3ACurrent+events%2F2016+February+27&amp;returnto=Portal%3ACurrent+events%2F2016+February+27&amp;oldid=707937683&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Current_events/2016_February_27&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Wikinews:2016/February/27" hreflang="en">Wikinews</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%DA%A9%D9%86%D9%88%D9%86%DB%8C/%D9%88%D9%82%D8%A7%DB%8C%D8%B9_%DB%B2%DB%B7_%D9%81%D9%88%D8%B1%DB%8C%D9%87_%DB%B2%DB%B0%DB%B1%DB%B6" title="درگاه:وقایع کنونی/وقایع ۲۷ فوریه ۲۰۱۶ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8B%80:%EC%9A%94%EC%A6%98_%ED%99%94%EC%A0%9C_%EC%B2%98%EC%9D%8C/2016%EB%85%84_2%EC%9B%94_27%EC%9D%BC" title="틀:요즘 화제 처음/2016년 2월 27일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9A%E0%B8%9A:%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%99/2559_%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C_27" title="แม่แบบ:เหตุการณ์ปัจจุบัน/2559 กุมภาพันธ์ 27 – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q22997074#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 March 2016, at 17:50.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Current_events/2016_February_27&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1266"});});</script>
+	</body>
+</html>
