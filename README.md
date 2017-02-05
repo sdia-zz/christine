@@ -5,3 +5,9 @@ Analysis of world's events from Wikipedia
 
 
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+
+https://en.wikipedia.org/wiki/List_of_calendars
+
+
+https://github.com/fitnr/convertdate

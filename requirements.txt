@@ -1,4 +1,5 @@
-lxml
-bs4
-psycopg2
-flask
+bs4==0.0.1
+convertdate==2.1.0
+Flask==0.12
+lxml==3.7.2
+psycopg2==2.6.1

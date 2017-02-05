@@ -1,5 +1,5 @@
 DROP schema IF EXISTS christine CASCADE;
-CREATE schema christine;
+CREATE IF NOT EXISTS schema christine;
 
 
 --------------------------------------------------------------------------------
