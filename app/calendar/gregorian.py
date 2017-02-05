@@ -10,10 +10,9 @@ from _common import Calendar
 
 
 
-class ISO(Calendar):
+class Gregorian(Calendar):
 
-    calendar = convertdate.iso
-    columns_list = ['isodate', 'year', 'week_number', 'weekday_number']
+    calendar = convertdate.gregorian
     debug = False
 
 
@@ -23,13 +22,13 @@ class ISO(Calendar):
         for d in self._generate_date():
             isoyear, isomonth, isoday = d
             isodate = '{:04d}-{:02d}-{:02d}'.format(isoyear, isomonth, isoday)
-            year, week_number, weekday_number = self.calendar.from_gregorian(isoyear, isomonth, isoday)
-            str_tuple = "('{isodate}',\t{year},\t{week_number},\t{weekday_number})"
+            # year, month, day = self.calendar.from_gregorian(isoyear, isomonth, isoday)
+            str_tuple = "('{isodate}',\t{year},\t{month},\t{day})"
             str_tuple = str_tuple.format(
                 isodate=isodate,
-                year=year,
-                week_number=week_number,
-                weekday_number=weekday_number)
+                year=isoyear,
+                month=isomonth,
+                day=isoday)
 
             values_tuple.append(str_tuple)
 
@@ -55,7 +54,6 @@ class ISO(Calendar):
         print 'OK.'
 
 
-
 if __name__ == '__main__':
-    b=ISO()
+    b=Gregorian()
     b.insert()
